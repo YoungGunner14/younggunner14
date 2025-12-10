@@ -1,4 +1,11 @@
-## Hi there 👋
+Hello, I am Aaditya !!
+
+- 🔭 I’m currently working on building Ubuntu Nepal and GNOME Nepal
+- 🌱 I’m currently learning Life Lessons.
+- 👯 I’m looking to collaborate on Creative Projects.
+- 💬 Ask me about Community Building.
+- 📫 How to reach me: in/aadityasingh14
+
 
 <!--
 **YoungGunner14/younggunner14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
